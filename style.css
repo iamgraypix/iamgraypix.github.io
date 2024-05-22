@@ -53,3 +53,18 @@ body {
 .navbar a:hover::before {
     width: 100%;
 }
+.rounded-button-white {
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9px 30px;
+    font-size: 16px;
+    border-radius: 50px;
+}
+.align-content {
+    padding: 20px 100px
+}
+.justify-text {
+    text-align: justify; 
+    text-justify: inter-word;
+}
